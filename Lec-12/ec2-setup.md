@@ -40,4 +40,6 @@ After the instance is running:
 ```bash
 chmod 400 my-key.pem
 ssh -i "ec2-key.pem" ec2-user@13.60.93.6
+```
 ![SSH Terminal](Screenshots/ssh_terminal.png)
+
